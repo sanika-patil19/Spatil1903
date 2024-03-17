@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![logo](https://github.com/Spatil1903/Spatil1903/blob/main/github.gif)
 <h1 align="center">Hi 👋, I'm Sanika Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
